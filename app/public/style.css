@@ -1,0 +1,16 @@
+html,body{
+	background: url(bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbo{
+	background-color: rgba(93, 53, 13, 0.5);
+	color: white;
+}
+.con{
+	background-color: rgba(4, 2, 0, 0.5);
+}
+
